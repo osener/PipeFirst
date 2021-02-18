@@ -12,7 +12,7 @@
     "@opam/reason": "*",
     "@opam/dune": "*",
     "@opam/ocaml-migrate-parsetree": "*",
-    "ocaml": "*",
+    "ocaml": "*"
   },
   "devDependencies": {
     "@opam/merlin": "*"
